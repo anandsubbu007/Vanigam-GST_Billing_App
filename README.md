@@ -1,3 +1,6 @@
+<img width="2754" height="1536" alt="vanigam_feature" src="https://github.com/user-attachments/assets/8ccc8310-4ce8-4ce3-9d72-ba99d4474740" />
+
+
 # Vanigam — Field Sales, Collection & GST Billing Platform
 
 > **Vanigam** (வணிகம் — Tamil for _"commerce"_) is a multi‑tenant, offline‑first, cross‑platform operational workflow platform that digitises the daily field workflow of wholesalers, distributors, retailers and small lenders — from order capture and GST invoicing to route‑based payment collection, batch‑level inventory and multi‑company accounting.
