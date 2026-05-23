@@ -1,6 +1,3 @@
-<img width="2754" height="1536" alt="vanigam_feature" src="https://github.com/user-attachments/assets/8ccc8310-4ce8-4ce3-9d72-ba99d4474740" />
-
-
 # Vanigam — Field Sales, Collection & GST Billing Platform
 
 > **Vanigam** (வணிகம் — Tamil for _"commerce"_) is a multi‑tenant, offline‑first, cross‑platform operational workflow platform that digitises the daily field workflow of wholesalers, distributors, retailers and small lenders — from order capture and GST invoicing to route‑based payment collection, batch‑level inventory and multi‑company accounting.
@@ -15,6 +12,8 @@
 [![Firebase](https://img.shields.io/badge/Firebase-Auth%20%2B%20FCM-FFCA28?logo=firebase)](https://firebase.google.com/)
 
 ---
+
+<img width="2754" height="1536" alt="vanigam_feature" src="https://github.com/user-attachments/assets/8ccc8310-4ce8-4ce3-9d72-ba99d4474740" />
 
 ## Table of Contents
 
@@ -602,6 +601,15 @@ Full instructions in [DEVELOPER_GUIDE.md](DEVELOPER_GUIDE.md).
 | [DATABASE_AND_SYNC.md](DATABASE_AND_SYNC.md)         | Entity catalogue, ER diagram, partitioning, sync lifecycle, conflicts |
 | [DEVELOPER_GUIDE.md](DEVELOPER_GUIDE.md)             | Setup, code‑gen, build, debug, test, release, deploy                  |
 | [PORTFOLIO_SUMMARY.md](PORTFOLIO_SUMMARY.md)         | Recruiter‑facing summary, interview talking points                    |
+
+---
+
+## 18. Images
+
+<img width="178" height="296" alt="iphone-launcingpg-vanigam" src="https://github.com/user-attachments/assets/05b2f122-b965-440f-becb-07f2e20cfd0d" />
+<img width="178" height="296" alt="mobile-dashboard-vanigam" src="https://github.com/user-attachments/assets/164c2278-9006-4034-9b73-6dd051e9feb2" />
+<img width="456" height="296" alt="dashboard-vanigam" src="https://github.com/user-attachments/assets/7c5cf8c1-9a3e-4de6-a99a-4243c2d940d3" />
+
 
 ---
 
