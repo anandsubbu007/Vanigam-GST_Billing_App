@@ -37,6 +37,15 @@
 
 ---
 
+# 📱 Application Preview
+
+<p align="center">
+  <img src="assets/android/Order_details-left.png" width="220"/>
+  <img src="assets/android/home_page-portrait.png" width="220"/>
+  <img src="assets/android/Collection_summary-right.png" width="220"/>
+</p>
+
+
 ## 1. Product Overview
 
 Vanigam started as a **lending‑and‑collection ledger** for small lenders (see the original problem statement in [README.md](../README.md)) and evolved into a **field‑sales operating system** with these production capabilities:
@@ -62,7 +71,6 @@ Vanigam started as a **lending‑and‑collection ledger** for small lenders (se
 | **Field Collector**      | Mobile UI, route‑based party list, create invoices, record cash/cheque vouchers, submit collection sessions for approval |
 | **Sales Executive**      | Order capture, estimate creation, customer credit‑limit checks, stock lookup                                             |
 | **Finance / Accountant** | Approve / reject / print invoices, reconcile cheques, fiscal‑year close, GST reports                                     |
-
 ---
 
 ## 2. System Architecture
