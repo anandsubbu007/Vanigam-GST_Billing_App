@@ -73,6 +73,50 @@ Vanigam started as a **lending‑and‑collection ledger** for small lenders (se
 | **Finance / Accountant** | Approve / reject / print invoices, reconcile cheques, fiscal‑year close, GST reports                                     |
 ---
 
+# 📸 Application Screens
+
+## 🏠 Dashboard
+
+| Mobile | Desktop |
+|---|---|
+| <img src="assets/android/home_page-portrait.png" width="220"/> | <img src="assets/desktop/Dashboard.png" width="700"/> |
+
+Centralized dashboard providing quick access to business insights, GST summaries, collections, and order analytics.
+
+---
+
+## 📦 Order Details
+
+| Mobile | Desktop |
+|---|---|
+| <img src="assets/android/Order_details-portrait.png" width="220"/> | <img src="assets/desktop/Invoice_details.png" width="700"/> |
+
+Manage customer invoices, GST billing information, product summaries, and order workflows efficiently.
+
+---
+
+## 💰 Collections
+
+| Mobile | Desktop |
+|---|---|
+| <img src="assets/android/Collection_summary-portrait.png" width="220"/> | <img src="assets/desktop/Collections.png" width="700"/> |
+
+Track collections, outstanding balances, and payment summaries with organized financial workflows.
+
+---
+
+## 📊 Collection Details
+
+| Mobile | Desktop |
+|---|---|
+| <img src="assets/android/Collections details-portrait.png" width="220"/> | <img src="assets/desktop/Collection_details.png" width="700"/> |
+
+Detailed collection records help monitor transactions, payment history, and customer settlements across platforms.
+
+> And much more, explore app to know more...
+
+---
+
 ## 2. System Architecture
 
 ### 2.1 High‑Level Topology
